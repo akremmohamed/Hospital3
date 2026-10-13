@@ -31,7 +31,6 @@ Installation Steps
 
 1. Clone or Download the Repositorybash
 git clone https://github.com
-Use code with caution.
 (Or download the ZIP file and extract it)
 2. Move Files to Web Server Directory
 	• Copy the project folder and paste it into your local server's root directory:
@@ -50,8 +49,6 @@ $host = 'localhost';
 $user = 'root';
 $password = '';
 $dbname = 'hms';
-Use code with caution.
 6. Run the Application
 	• Open your browser and navigate to:text
 http://localhost/hospital-management-system
-Use code with caution.
