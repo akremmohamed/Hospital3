@@ -1,0 +1,28 @@
+# Local backups — never push
+backups/
+logs/
+storage/
+*.log
+
+# Database dumps
+DATABASE FILE/
+*.sql
+*.sql.gz
+
+# Config files that likely contain credentials
+config/db.php
+config/config.php
+config/*.local.php
+.env
+.env.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*LOGIN DETAILS*
+**/01 LOGIN*
